@@ -1,0 +1,6 @@
+baseURL = 'https://www.pizzbuzz.tech/'
+languageCode = 'en'
+title = 'Pizza % 5 == 0'
+defaultContentLanguage =  'en'
+copyright = "Author:[pizzbuzz](https://github.com/PizzBuzz) built with `nix` and `hugo`, [source code](https://github.com/PizzBuzz/pizzbuzz.github.io)"
+theme = 'paper'
